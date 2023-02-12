@@ -1,0 +1,212 @@
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/audikw_1.mtx
+Matrix A is 943695 by 943695, #nonzeros = 77651847
+communicate_total_num 537810
+process time: 4274.74
+communicate time 2.70 ms
+spmv time 2.46 ms
+communicate time + spmv time 5.16 ms  30.09 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/bone010.mtx
+Matrix A is 986703 by 986703, #nonzeros = 71666325
+communicate_total_num 182970
+process time: 3752.34
+communicate time 1.77 ms
+spmv time 2.27 ms
+communicate time + spmv time 4.04 ms  35.43 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/dielFilterV2real.mtx
+Matrix A is 1157456 by 1157456, #nonzeros = 48538952
+communicate_total_num 297878
+process time: 3106.24
+communicate time 1.64 ms
+spmv time 1.69 ms
+communicate time + spmv time 3.34 ms  29.09 GFlops
+error count 0 
+srun: Job 30682597 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 30682597
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/asia_osm.mtx
+Matrix A is 11950757 by 11950757, #nonzeros = 25423206
+communicate_total_num 8531
+process time: 8660.75
+communicate time 0.84 ms
+spmv time 1.91 ms
+communicate time + spmv time 2.75 ms  18.48 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/ldoor.mtx
+Matrix A is 952203 by 952203, #nonzeros = 46522475
+communicate_total_num 72976
+process time: 2257.03
+communicate time 1.08 ms
+spmv time 1.69 ms
+communicate time + spmv time 2.77 ms  33.54 GFlops
+error count 0 
+srun: Job 30682597 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 30682597
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/nlpkkt80.mtx
+Matrix A is 1062400 by 1062400, #nonzeros = 28704672
+communicate_total_num 393387
+process time: 2875.31
+communicate time 3.46 ms
+spmv time 0.48 ms
+communicate time + spmv time 3.94 ms  14.57 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/rajat31.mtx
+Matrix A is 4690002 by 4690002, #nonzeros = 20316253
+communicate_total_num 41543
+process time: 4111.32
+communicate time 1.04 ms
+spmv time 0.49 ms
+communicate time + spmv time 1.52 ms  26.68 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/rgg_n_2_21_s0.mtx
+Matrix A is 2097152 by 2097152, #nonzeros = 28975990
+communicate_total_num 41836
+process time: 2288.26
+communicate time 1.03 ms
+spmv time 1.03 ms
+communicate time + spmv time 2.06 ms  28.15 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/road_central.mtx
+Matrix A is 14081816 by 14081816, #nonzeros = 33866826
+communicate_total_num 38098
+process time: 16093.65
+communicate time 0.84 ms
+spmv time 2.50 ms
+communicate time + spmv time 3.34 ms  20.29 GFlops
+error count 0 
+srun: Job 30682597 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 30682597
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/inline_1.mtx
+Matrix A is 503712 by 503712, #nonzeros = 36816342
+communicate_total_num 153474
+process time: 1845.07
+communicate time 1.36 ms
+spmv time 0.85 ms
+communicate time + spmv time 2.21 ms  33.32 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/hugebubbles-00000.mtx
+Matrix A is 18318143 by 18318143, #nonzeros = 54940162
+communicate_total_num 66378
+process time: 14793.97
+communicate time 1.15 ms
+spmv time 3.46 ms
+communicate time + spmv time 4.61 ms  23.84 GFlops
+error count 540787 
+srun: Job 30682597 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 30682597
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/germany_osm.mtx
+Matrix A is 11548845 by 11548845, #nonzeros = 24738362
+communicate_total_num 6963
+process time: 9672.03
+communicate time 0.81 ms
+spmv time 1.82 ms
+communicate time + spmv time 2.64 ms  18.76 GFlops
+error count 0 
+srun: Job 30682597 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 30682597
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/italy_osm.mtx
+Matrix A is 6686493 by 6686493, #nonzeros = 14027956
+communicate_total_num 7618
+process time: 4788.30
+communicate time 0.81 ms
+spmv time 0.76 ms
+communicate time + spmv time 1.57 ms  17.88 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/adaptive.mtx
+Matrix A is 6815744 by 6815744, #nonzeros = 27248640
+communicate_total_num 53912
+process time: 4978.20
+communicate time 1.10 ms
+spmv time 0.95 ms
+communicate time + spmv time 2.05 ms  26.53 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/ecology1.mtx
+Matrix A is 1000000 by 1000000, #nonzeros = 4996000
+communicate_total_num 22581
+process time: 716.58
+communicate time 0.86 ms
+spmv time 0.26 ms
+communicate time + spmv time 1.12 ms  8.95 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/vas_stokes_1M.mtx
+Matrix A is 1090664 by 1090664, #nonzeros = 34767207
+communicate_total_num 469604
+process time: 3276.87
+communicate time 2.98 ms
+spmv time 1.11 ms
+communicate time + spmv time 4.10 ms  16.97 GFlops
+error count 0 
+srun: Job 30682597 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 30682597
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/AS365.mtx
+Matrix A is 3799275 by 3799275, #nonzeros = 22736152
+communicate_total_num 115705
+process time: 3958.93
+communicate time 1.31 ms
+spmv time 1.05 ms
+communicate time + spmv time 2.36 ms  19.24 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/M6.mtx
+Matrix A is 3501776 by 3501776, #nonzeros = 21003872
+communicate_total_num 113402
+process time: 3714.68
+communicate time 1.32 ms
+spmv time 1.79 ms
+communicate time + spmv time 3.11 ms  13.50 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/NLR.mtx
+Matrix A is 4163763 by 4163763, #nonzeros = 24975952
+communicate_total_num 91521
+process time: 4394.47
+communicate time 1.10 ms
+spmv time 0.97 ms
+communicate time + spmv time 2.07 ms  24.18 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[06-09] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/cant.mtx
+Matrix A is 62451 by 62451, #nonzeros = 4007383
+communicate_total_num 21828
+process time: 254.24
+communicate time 0.83 ms
+spmv time 0.22 ms
+communicate time + spmv time 1.05 ms  7.63 GFlops
+error count 0 

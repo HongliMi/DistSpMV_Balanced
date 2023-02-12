@@ -1,0 +1,164 @@
+srun: ROUTE: split_hostlist: hl=a17r1n02 tree_width 0
+process num:8, thread num:4 
+filename = ../matrix/road_central.mtx
+Matrix A is 14081816 by 14081816, #nonzeros = 33866826
+communicate_total_num 2952
+process time: 17538.52
+process 0 receive process 0 communication is 0
+process 1 receive process 0 communication is 105
+process 2 receive process 0 communication is 1
+process 3 receive process 0 communication is 0
+process 4 receive process 0 communication is 1
+process 5 receive process 0 communication is 0
+process 6 receive process 0 communication is 0
+process 7 receive process 0 communication is 0
+process 0 receive process 1 communication is 110
+process 2 receive process 1 communication is 172
+process 0 receive process 2 communication is 1
+process 0 receive process 3 communication is 0
+process 1 receive process 1 communication is 0
+process 1 receive process 2 communication is 167
+process 2 receive process 2 communication is 0
+process 2 receive process 3 communication is 297
+process 6 receive process 1 communication is 79
+process 6 receive process 2 communication is 0
+process 7 receive process 1 communication is 0
+process 7 receive process 2 communication is 0
+process 0 receive process 4 communication is 1
+process 1 receive process 3 communication is 24
+process 2 receive process 4 communication is 0
+process 3 receive process 1 communication is 24
+process 3 receive process 2 communication is 284
+process 3 receive process 3 communication is 0
+process 4 receive process 1 communication is 2
+process 4 receive process 2 communication is 0
+process 5 receive process 1 communication is 0
+process 5 receive process 2 communication is 0
+process 5 receive process 3 communication is 1
+process 6 receive process 3 communication is 23
+process 6 receive process 4 communication is 45
+process 7 receive process 3 communication is 110
+process 7 receive process 4 communication is 0
+process 7 receive process 5 communication is 0
+process 0 receive process 5 communication is 0
+process 0 receive process 6 communication is 0
+process 0 receive process 7 communication is 0
+process 1 receive process 4 communication is 2
+process 1 receive process 5 communication is 0
+process 1 receive process 6 communication is 78
+process 2 receive process 5 communication is 0
+process 2 receive process 6 communication is 0
+process 2 receive process 7 communication is 0
+process 3 receive process 4 communication is 36
+process 3 receive process 5 communication is 1
+process 4 receive process 3 communication is 15
+process 4 receive process 4 communication is 0
+process 4 receive process 5 communication is 166
+process 5 receive process 4 communication is 146
+process 5 receive process 5 communication is 0
+process 6 receive process 5 communication is 137
+process 6 receive process 6 communication is 0
+process 6 receive process 7 communication is 343
+process 1 receive process 7 communication is 0
+process 3 receive process 6 communication is 23
+process 3 receive process 7 communication is 109
+process 4 receive process 6 communication is 45
+process 4 receive process 7 communication is 0
+process 5 receive process 6 communication is 173
+process 5 receive process 7 communication is 0
+process 7 receive process 6 communication is 231
+process 7 receive process 7 communication is 0
+process 0 receive total communication  is 112 , local computation is 4288365 , romote computation is 111
+process 7 receive total communication  is 341 , local computation is 4374686 , romote computation is 453
+process 5 receive total communication  is 320 , local computation is 3990273 , romote computation is 347
+process 6 receive total communication  is 627 , local computation is 4056824 , romote computation is 669
+process 4 receive total communication  is 229 , local computation is 4298735 , romote computation is 252
+process 1 receive total communication  is 376 , local computation is 4151275 , romote computation is 386
+process 2 receive total communication  is 470 , local computation is 4371410 , romote computation is 474
+process 3 receive total communication  is 477 , local computation is 4332072 , romote computation is 494
+communicate time 0.12 ms
+spmv time 16.96 ms
+communicate time + spmv time 17.08 ms  3.97 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n02 tree_width 0
+process num:8, thread num:4 
+filename = ../matrix/inline_1.mtx
+Matrix A is 503712 by 503712, #nonzeros = 36816342
+communicate_total_num 56214
+process time: 1618.81
+process 0 receive process 0 communication is 0
+process 2 receive process 0 communication is 516
+process 4 receive process 0 communication is 0
+process 5 receive process 0 communication is 0
+process 6 receive process 0 communication is 0
+process 6 receive process 1 communication is 1284
+process 7 receive process 0 communication is 0
+process 7 receive process 1 communication is 0
+process 0 receive process 1 communication is 1443
+process 0 receive process 2 communication is 42
+process 1 receive process 0 communication is 1983
+process 1 receive process 1 communication is 0
+process 2 receive process 1 communication is 429
+process 2 receive process 2 communication is 0
+process 3 receive process 0 communication is 2271
+process 3 receive process 1 communication is 21
+process 4 receive process 1 communication is 0
+process 4 receive process 2 communication is 12
+process 5 receive process 1 communication is 861
+process 5 receive process 2 communication is 576
+process 6 receive process 2 communication is 0
+process 6 receive process 3 communication is 0
+process 7 receive process 2 communication is 0
+process 0 receive process 3 communication is 2304
+process 1 receive process 2 communication is 8181
+process 2 receive process 3 communication is 9516
+process 3 receive process 2 communication is 1899
+process 7 receive process 3 communication is 0
+process 4 receive process 3 communication is 660
+process 5 receive process 3 communication is 204
+process 6 receive process 4 communication is 0
+process 0 receive process 4 communication is 0
+process 0 receive process 5 communication is 0
+process 1 receive process 3 communication is 168
+process 1 receive process 4 communication is 0
+process 2 receive process 4 communication is 18
+process 2 receive process 5 communication is 504
+process 3 receive process 3 communication is 0
+process 3 receive process 4 communication is 5955
+process 4 receive process 4 communication is 0
+process 4 receive process 5 communication is 4566
+process 5 receive process 4 communication is 1056
+process 6 receive process 5 communication is 822
+process 7 receive process 4 communication is 0
+process 7 receive process 5 communication is 240
+process 5 receive process 5 communication is 0
+process 3 receive process 5 communication is 282
+process 4 receive process 6 communication is 0
+process 6 receive process 6 communication is 0
+process 0 receive process 6 communication is 0
+process 5 receive process 6 communication is 6282
+process 2 receive process 6 communication is 0
+process 3 receive process 6 communication is 0
+process 4 receive process 7 communication is 0
+process 1 receive process 5 communication is 279
+process 5 receive process 7 communication is 225
+process 6 receive process 7 communication is 1536
+process 7 receive process 6 communication is 732
+process 0 receive process 7 communication is 0
+process 3 receive process 7 communication is 0
+process 1 receive process 6 communication is 1347
+process 2 receive process 7 communication is 0
+process 7 receive process 7 communication is 0
+process 1 receive process 7 communication is 0
+process 5 receive total communication  is 9204 , local computation is 4339095 , romote computation is 113006
+process 3 receive total communication  is 10428 , local computation is 4541573 , romote computation is 155293
+process 6 receive total communication  is 3642 , local computation is 4443945 , romote computation is 84567
+process 7 receive total communication  is 972 , local computation is 4495956 , romote computation is 18900
+process 1 receive total communication  is 11958 , local computation is 4547685 , romote computation is 101382
+process 4 receive total communication  is 5238 , local computation is 4434831 , romote computation is 81941
+process 2 receive total communication  is 10983 , local computation is 4478014 , romote computation is 132054
+process 0 receive total communication  is 3789 , local computation is 4780237 , romote computation is 67863
+communicate time 0.26 ms
+spmv time 7.60 ms
+communicate time + spmv time 7.86 ms  9.37 GFlops
+error count 0 

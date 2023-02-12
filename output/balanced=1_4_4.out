@@ -1,0 +1,220 @@
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/audikw_1.mtx
+Matrix A is 943695 by 943695, #nonzeros = 77651847
+metis time: 3400.33
+preprocess time: 4430.76
+communicate_total_num 21591
+communication time: 0.03 ms
+caiculation time 17.57 ms
+total time 17.60 ms, 8.82 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/bone010.mtx
+Matrix A is 986703 by 986703, #nonzeros = 71666325
+metis time: 3221.66
+preprocess time: 4167.91
+communicate_total_num 13887
+communication time: 0.02 ms
+caiculation time 11.83 ms
+total time 11.85 ms, 12.10 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/dielFilterV2real.mtx
+Matrix A is 1157456 by 1157456, #nonzeros = 48538952
+metis time: 2515.54
+preprocess time: 3163.78
+communicate_total_num 7102
+communication time: 0.01 ms
+caiculation time 9.22 ms
+total time 9.23 ms, 10.51 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/asia_osm.mtx
+Matrix A is 11950757 by 11950757, #nonzeros = 25423206
+metis time: 8422.88
+preprocess time: 8960.43
+communicate_total_num 28
+communication time: 0.00 ms
+caiculation time 24.96 ms
+total time 24.96 ms, 2.04 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/ldoor.mtx
+Matrix A is 952203 by 952203, #nonzeros = 46522475
+metis time: 1887.08
+preprocess time: 2516.80
+communicate_total_num 3899
+communication time: 0.01 ms
+caiculation time 8.77 ms
+total time 8.78 ms, 10.60 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/nlpkkt80.mtx
+Matrix A is 1062400 by 1062400, #nonzeros = 28704672
+metis time: 2030.85
+preprocess time: 2409.45
+communicate_total_num 40933
+communication time: 0.03 ms
+caiculation time 5.73 ms
+total time 5.76 ms, 9.97 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/rajat31.mtx
+Matrix A is 4690002 by 4690002, #nonzeros = 20316253
+metis time: 3523.37
+preprocess time: 3799.29
+communicate_total_num 3544
+communication time: 0.01 ms
+caiculation time 9.09 ms
+total time 9.10 ms, 4.47 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/rgg_n_2_21_s0.mtx
+Matrix A is 2097152 by 2097152, #nonzeros = 28975990
+metis time: 2010.71
+preprocess time: 2409.17
+communicate_total_num 4203
+communication time: 0.01 ms
+caiculation time 11.19 ms
+total time 11.20 ms, 5.18 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/road_central.mtx
+Matrix A is 14081816 by 14081816, #nonzeros = 33866826
+metis time: 15737.32
+preprocess time: 16509.51
+communicate_total_num 493
+communication time: 0.00 ms
+caiculation time 49.37 ms
+total time 49.37 ms, 1.37 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/inline_1.mtx
+Matrix A is 503712 by 503712, #nonzeros = 36816342
+metis time: 1524.77
+preprocess time: 2019.04
+communicate_total_num 6771
+communication time: 0.01 ms
+caiculation time 6.90 ms
+total time 6.91 ms, 10.65 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/hugebubbles-00000.mtx
+Matrix A is 18318143 by 18318143, #nonzeros = 54940162
+metis time: 13558.54
+preprocess time: 14607.92
+communicate_total_num 3454
+communication time: 0.01 ms
+caiculation time 51.25 ms
+total time 51.25 ms, 2.14 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/germany_osm.mtx
+Matrix A is 11548845 by 11548845, #nonzeros = 24738362
+metis time: 9438.59
+preprocess time: 9948.43
+communicate_total_num 285
+communication time: 0.00 ms
+caiculation time 32.23 ms
+total time 32.24 ms, 1.53 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/italy_osm.mtx
+Matrix A is 6686493 by 6686493, #nonzeros = 14027956
+metis time: 4263.32
+preprocess time: 4491.22
+communicate_total_num 132
+communication time: 0.00 ms
+caiculation time 12.08 ms
+total time 12.08 ms, 2.32 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/adaptive.mtx
+Matrix A is 6815744 by 6815744, #nonzeros = 27248640
+metis time: 4582.02
+preprocess time: 4952.18
+communicate_total_num 3774
+communication time: 0.01 ms
+caiculation time 15.71 ms
+total time 15.72 ms, 3.47 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/ecology1.mtx
+Matrix A is 1000000 by 1000000, #nonzeros = 4996000
+metis time: 496.42
+preprocess time: 565.13
+communicate_total_num 2211
+communication time: 0.01 ms
+caiculation time 1.05 ms
+total time 1.06 ms, 9.46 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/vas_stokes_1M.mtx
+Matrix A is 1090664 by 1090664, #nonzeros = 34767207
+metis time: 2539.72
+preprocess time: 2979.21
+communicate_total_num 42292
+communication time: 0.03 ms
+caiculation time 7.25 ms
+total time 7.28 ms, 9.55 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/AS365.mtx
+Matrix A is 3799275 by 3799275, #nonzeros = 22736152
+metis time: 3736.38
+preprocess time: 4050.55
+communicate_total_num 2515
+communication time: 0.01 ms
+caiculation time 20.12 ms
+total time 20.12 ms, 2.26 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/M6.mtx
+Matrix A is 3501776 by 3501776, #nonzeros = 21003872
+metis time: 3638.55
+preprocess time: 3917.29
+communicate_total_num 2894
+communication time: 0.01 ms
+caiculation time 16.54 ms
+total time 16.55 ms, 2.54 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/NLR.mtx
+Matrix A is 4163763 by 4163763, #nonzeros = 24975952
+metis time: 4172.47
+preprocess time: 4534.96
+communicate_total_num 4237
+communication time: 0.01 ms
+caiculation time 24.92 ms
+total time 24.93 ms, 2.00 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n03 tree_width 0
+process num:2, thread num:4 
+filename = ../matrix/cant.mtx
+Matrix A is 62451 by 62451, #nonzeros = 4007383
+metis time: 146.59
+preprocess time: 193.55
+communicate_total_num 600
+communication time: 0.00 ms
+caiculation time 0.38 ms
+total time 0.38 ms, 21.15 GFlops
+error count 0 

@@ -1,0 +1,17 @@
+ filename, id, sum_mesg,sum_local, sum_remote
+./matrix/road_central.mtx, 7, 705767, 3364816, 789207
+./matrix/road_central.mtx, 5, 1827675, 1556692, 2655011
+./matrix/road_central.mtx, 2, 1305156, 2284092, 2049886
+./matrix/road_central.mtx, 6, 735261, 2755433, 1474693
+./matrix/road_central.mtx, 4, 1952682, 1422135, 2788136
+./matrix/road_central.mtx, 1, 1514960, 2209982, 2081334
+./matrix/road_central.mtx, 3, 669113, 3036641, 1179112
+./matrix/road_central.mtx, 0, 364767, 3738168, 481488
+./matrix/inline_1.mtx, 5, 43476, 2156583, 1650885
+./matrix/inline_1.mtx, 1, 42366, 2157594, 1639474
+./matrix/inline_1.mtx, 6, 89043, 2433360, 1674612
+./matrix/inline_1.mtx, 7, 40788, 2931570, 1124691
+./matrix/inline_1.mtx, 4, 199311, 2911110, 3515007
+./matrix/inline_1.mtx, 2, 90042, 2427351, 1691511
+./matrix/inline_1.mtx, 3, 38241, 2868351, 1162632
+./matrix/inline_1.mtx, 0, 192951, 2984056, 3487555

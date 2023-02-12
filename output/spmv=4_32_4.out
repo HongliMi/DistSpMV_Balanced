@@ -1,0 +1,204 @@
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/audikw_1.mtx
+Matrix A is 943695 by 943695, #nonzeros = 77651847
+communicate_total_num 2222088
+preprocess time: 1188.75
+communicate time 73.91 ms
+spmv time 5.48 ms
+communicate time + spmv time 79.39 ms  1.96 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/bone010.mtx
+Matrix A is 986703 by 986703, #nonzeros = 71666325
+communicate_total_num 562170
+preprocess time: 745.16
+communicate time 2.73 ms
+spmv time 5.99 ms
+communicate time + spmv time 8.72 ms  16.44 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/dielFilterV2real.mtx
+Matrix A is 1157456 by 1157456, #nonzeros = 48538952
+communicate_total_num 1751968
+preprocess time: 702.73
+communicate time 72.63 ms
+spmv time 3.86 ms
+communicate time + spmv time 76.49 ms  1.27 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/asia_osm.mtx
+Matrix A is 11950757 by 11950757, #nonzeros = 25423206
+communicate_total_num 1658706
+preprocess time: 798.90
+communicate time 28.59 ms
+spmv time 6.44 ms
+communicate time + spmv time 35.02 ms  1.45 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/ldoor.mtx
+Matrix A is 952203 by 952203, #nonzeros = 46522475
+communicate_total_num 1689177
+preprocess time: 710.30
+communicate time 21.53 ms
+spmv time 7.98 ms
+communicate time + spmv time 29.51 ms  3.15 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/nlpkkt80.mtx
+Matrix A is 1062400 by 1062400, #nonzeros = 28704672
+communicate_total_num 1473770
+preprocess time: 649.06
+communicate time 32.99 ms
+spmv time 1.01 ms
+communicate time + spmv time 34.00 ms  1.69 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/rajat31.mtx
+Matrix A is 4690002 by 4690002, #nonzeros = 20316253
+communicate_total_num 88653
+preprocess time: 331.85
+communicate time 1.20 ms
+spmv time 3.83 ms
+communicate time + spmv time 5.04 ms  8.06 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/rgg_n_2_21_s0.mtx
+Matrix A is 2097152 by 2097152, #nonzeros = 28975990
+communicate_total_num 76887
+preprocess time: 324.18
+communicate time 1.15 ms
+spmv time 0.99 ms
+communicate time + spmv time 2.14 ms  27.07 GFlops
+error count 0 
+srun: Job 30682583 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 30682583
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/road_central.mtx
+Matrix A is 14081816 by 14081816, #nonzeros = 33866826
+communicate_total_num 21377162
+preprocess time: 1776.53
+communicate time 223.75 ms
+spmv time 10.31 ms
+communicate time + spmv time 234.06 ms  0.29 GFlops
+error count 0 
+srun: Job 30682583 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 30682583
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/inline_1.mtx
+Matrix A is 503712 by 503712, #nonzeros = 36816342
+communicate_total_num 1533693
+preprocess time: 610.61
+communicate time 14.43 ms
+spmv time 3.36 ms
+communicate time + spmv time 17.79 ms  4.14 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/hugebubbles-00000.mtx
+Matrix A is 18318143 by 18318143, #nonzeros = 54940162
+communicate_total_num 21764018
+preprocess time: 1899.00
+communicate time 580.77 ms
+spmv time 8.15 ms
+communicate time + spmv time 588.92 ms  0.19 GFlops
+error count 540650 
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/germany_osm.mtx
+Matrix A is 11548845 by 11548845, #nonzeros = 24738362
+communicate_total_num 3117693
+preprocess time: 890.70
+communicate time 70.42 ms
+spmv time 3.70 ms
+communicate time + spmv time 74.12 ms  0.67 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/italy_osm.mtx
+Matrix A is 6686493 by 6686493, #nonzeros = 14027956
+communicate_total_num 955825
+preprocess time: 485.12
+communicate time 16.64 ms
+spmv time 7.51 ms
+communicate time + spmv time 24.15 ms  1.16 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/adaptive.mtx
+Matrix A is 6815744 by 6815744, #nonzeros = 27248640
+communicate_total_num 8079589
+preprocess time: 713.37
+communicate time 274.56 ms
+spmv time 3.87 ms
+communicate time + spmv time 278.43 ms  0.20 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/ecology1.mtx
+Matrix A is 1000000 by 1000000, #nonzeros = 4996000
+communicate_total_num 62000
+preprocess time: 93.54
+communicate time 1.02 ms
+spmv time 6.47 ms
+communicate time + spmv time 7.49 ms  1.33 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/vas_stokes_1M.mtx
+Matrix A is 1090664 by 1090664, #nonzeros = 34767207
+communicate_total_num 2170343
+preprocess time: 603.92
+communicate time 81.74 ms
+spmv time 5.45 ms
+communicate time + spmv time 87.19 ms  0.80 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/AS365.mtx
+Matrix A is 3799275 by 3799275, #nonzeros = 22736152
+communicate_total_num 13331372
+preprocess time: 1028.35
+communicate time 403.11 ms
+spmv time 3.71 ms
+communicate time + spmv time 406.82 ms  0.11 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/M6.mtx
+Matrix A is 3501776 by 3501776, #nonzeros = 21003872
+communicate_total_num 12605986
+preprocess time: 932.99
+communicate time 599.25 ms
+spmv time 4.46 ms
+communicate time + spmv time 603.71 ms  0.07 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/NLR.mtx
+Matrix A is 4163763 by 4163763, #nonzeros = 24975952
+communicate_total_num 14815799
+preprocess time: 1128.17
+communicate time 645.16 ms
+spmv time 6.31 ms
+communicate time + spmv time 651.47 ms  0.08 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[07-10] tree_width 0
+process num:32, thread num:4 
+filename = ../matrix/cant.mtx
+Matrix A is 62451 by 62451, #nonzeros = 4007383
+communicate_total_num 16884
+preprocess time: 39.97
+communicate time 0.87 ms
+spmv time 3.46 ms
+communicate time + spmv time 4.34 ms  1.85 GFlops
+error count 0 

@@ -1,0 +1,120 @@
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/audikw_1.mtx
+Matrix A is 943695 by 943695, #nonzeros = 77651847
+overlap spmv time 27.61 ms, 5.62 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/bone010.mtx
+Matrix A is 986703 by 986703, #nonzeros = 71666325
+overlap spmv time 17.05 ms, 8.41 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/dielFilterV2real.mtx
+Matrix A is 1157456 by 1157456, #nonzeros = 48538952
+overlap spmv time 7.92 ms, 12.26 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/asia_osm.mtx
+Matrix A is 11950757 by 11950757, #nonzeros = 25423206
+overlap spmv time 14.87 ms, 3.42 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/ldoor.mtx
+Matrix A is 952203 by 952203, #nonzeros = 46522475
+overlap spmv time 6.35 ms, 14.66 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/nlpkkt80.mtx
+Matrix A is 1062400 by 1062400, #nonzeros = 28704672
+overlap spmv time 9.38 ms, 6.12 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/rajat31.mtx
+Matrix A is 4690002 by 4690002, #nonzeros = 20316253
+overlap spmv time 25.06 ms, 1.62 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/rgg_n_2_21_s0.mtx
+Matrix A is 2097152 by 2097152, #nonzeros = 28975990
+overlap spmv time 19.59 ms, 2.96 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/road_central.mtx
+Matrix A is 14081816 by 14081816, #nonzeros = 33866826
+overlap spmv time 24.01 ms, 2.82 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/inline_1.mtx
+Matrix A is 503712 by 503712, #nonzeros = 36816342
+overlap spmv time 7.56 ms, 9.74 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/hugebubbles-00000.mtx
+Matrix A is 18318143 by 18318143, #nonzeros = 54940162
+overlap spmv time 26.56 ms, 4.14 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/germany_osm.mtx
+Matrix A is 11548845 by 11548845, #nonzeros = 24738362
+overlap spmv time 30.74 ms, 1.61 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/italy_osm.mtx
+Matrix A is 6686493 by 6686493, #nonzeros = 14027956
+overlap spmv time 9.21 ms, 3.05 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/adaptive.mtx
+Matrix A is 6815744 by 6815744, #nonzeros = 27248640
+overlap spmv time 9.00 ms, 6.05 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/ecology1.mtx
+Matrix A is 1000000 by 1000000, #nonzeros = 4996000
+overlap spmv time 8.39 ms, 1.19 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/vas_stokes_1M.mtx
+Matrix A is 1090664 by 1090664, #nonzeros = 34767207
+overlap spmv time 23.30 ms, 2.98 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/AS365.mtx
+Matrix A is 3799275 by 3799275, #nonzeros = 22736152
+overlap spmv time 17.10 ms, 2.66 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/M6.mtx
+Matrix A is 3501776 by 3501776, #nonzeros = 21003872
+overlap spmv time 23.77 ms, 1.77 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/NLR.mtx
+Matrix A is 4163763 by 4163763, #nonzeros = 24975952
+overlap spmv time 17.87 ms, 2.80 GFlops
+error count 0 
+srun: ROUTE: split_hostlist: hl=a17r1n[00-07] tree_width 0
+process num:64, thread num:4 
+filename = ../matrix/cant.mtx
+Matrix A is 62451 by 62451, #nonzeros = 4007383
+overlap spmv time 9.11 ms, 0.88 GFlops
+error count 0 
