@@ -12,15 +12,14 @@
 1. The __csv__ folder is used to store (.csv) files that need to be written to run code, which is convenient for us to carry out visualization through python code later.
 2. The __draw__ folder stores some python code that visualizes the running results.
 3. The __figure__ folder is used to store the visual image of the running result.
-4. The __matrix__ folder is our data set, including 20 matrices. Please put the folder in the upper level directory before running the code.
-5. __metis-5.1.0__ is the package we need to run the code.
-6.The __output__ folder is used to store the output (.out) file of our running code, which records in detail the calculation time, communication time, rate and other information of each matrix under various processes.
-7. The __run__ folder is used to store the scripts where we run the code.
-8. The __script__ folder contains all of our scripts.
-9. The rest is for our code and environment and compile scripts. __env.sh__ is the environment setting, __compile.sh__ is the compile script.
+4. __metis-5.1.0__ is the package we need to run the code.
+5.The __output__ folder is used to store the output (.out) file of our running code, which records in detail the calculation time, communication time, rate and other information of each matrix under various processes.
+6. The __run__ folder is used to store the scripts where we run the code.
+7. The __script__ folder contains all of our scripts.
+8. The rest is for our code and environment and compile scripts. __env.sh__ is the environment setting, __compile.sh__ is the compile script.
 
 ## Experimental workflow.
-1. The required data and software package were downloaded from GitHub platform to the experimental platform, and the dataset __"matrix"__  was moved to the upper-level directory of the software package, which was convenient for our subsequent operations.
+1. The required software package were downloaded from GitHub platform to the experimental platform, and then  download the 20 matrices required in the paper from the website https://sparse.tamu.edu into a folder named __"matrix"__ and put it in the upper directory of the software package for our subsequent operations. 
 2. Check the __"compile.sh"__ file in the software package. If there is no related module in the file, it is better to load the module according to the same version and change the path of the file to the current experimental path.
 3. Go to the location of the current software package and compile the program.
 ```
